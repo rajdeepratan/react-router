@@ -1,10 +1,17 @@
-This git repository will help you setting up the basic react-router for your project.
+
+## React-Route V4
 
 
-To get started you need to install NodeJS v9.5.9 and Yarn v1.3.2 in your Computer.
+## Requirements
 
-Command to follow:
+- Node and yarn
 
-1. $ yarn install
-2. $ yarn
-3. $ yarn start
+## Installation
+
+- Clone the repo: `git clone https://github.com/rajdeepratan/react-router.git`
+- Install dependencies: `yarn install`
+
+##  How to get started!
+
+ - run `yarn start` from the home directory.
+
