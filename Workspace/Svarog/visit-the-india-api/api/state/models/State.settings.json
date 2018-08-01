@@ -1,0 +1,35 @@
+{
+  "connection": "default",
+  "collectionName": "state",
+  "info": {
+    "name": "state",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "stateName": {
+      "type": "string"
+    },
+    "zone": {
+      "model": "zone",
+      "via": "states",
+      "dominant": true
+    },
+    "cities": {
+      "collection": "city",
+      "via": "state"
+    },
+    "stateOneLine": {
+      "type": "string"
+    },
+    "stateDescription": {
+      "type": "string"
+    },
+    "topdestinations": {
+      "collection": "topdestination",
+      "via": "state"
+    }
+  }
+}

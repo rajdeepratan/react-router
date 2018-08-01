@@ -1,0 +1,26 @@
+{
+  "connection": "default",
+  "collectionName": "city",
+  "info": {
+    "name": "city",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "cityName": {
+      "type": "string"
+    },
+    "state": {
+      "model": "state",
+      "via": "cities"
+    },
+    "cityOneLine": {
+      "type": "string"
+    },
+    "cityDescription": {
+      "type": "string"
+    }
+  }
+}

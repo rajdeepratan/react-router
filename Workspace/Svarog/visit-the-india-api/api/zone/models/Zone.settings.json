@@ -1,0 +1,20 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "zone",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "zoneName": {
+      "type": "string"
+    },
+    "states": {
+      "collection": "state",
+      "via": "zone"
+    }
+  }
+}

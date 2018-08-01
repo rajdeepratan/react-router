@@ -1,0 +1,150 @@
+{
+  "article": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "coucou": {
+        "appearance": ""
+      },
+      "content": {
+        "appearance": "WYSIWYG"
+      },
+      "code": {
+        "appearance": ""
+      }
+    }
+  },
+  "tag": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      }
+    }
+  },
+  "category": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      }
+    }
+  },
+  "reference": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      }
+    }
+  },
+  "product": {
+    "attributes": {
+      "product_id": {
+        "appearance": ""
+      },
+      "Name": {
+        "appearance": ""
+      },
+      "Price": {
+        "appearance": ""
+      },
+      "product_name": {
+        "appearance": ""
+      },
+      "price": {
+        "appearance": ""
+      },
+      "name": {
+        "appearance": ""
+      }
+    }
+  },
+  "testapi": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "price": {
+        "appearance": ""
+      }
+    }
+  },
+  "zone": {
+    "attributes": {
+      "zone_name": {
+        "appearance": ""
+      },
+      "zoneName": {
+        "appearance": ""
+      }
+    }
+  },
+  "state": {
+    "attributes": {
+      "state_name": {
+        "appearance": ""
+      },
+      "zone_id": {
+        "appearance": ""
+      },
+      "zoneId": {
+        "appearance": ""
+      },
+      "state_description": {
+        "appearance": ""
+      },
+      "state_oneLine": {
+        "appearance": ""
+      },
+      "stateName": {
+        "appearance": ""
+      },
+      "oneLine": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      }
+    }
+  },
+  "city": {
+    "attributes": {
+      "city_name": {
+        "appearance": ""
+      },
+      "state_id": {
+        "appearance": ""
+      },
+      "stateId": {
+        "appearance": ""
+      },
+      "city_oneLine": {
+        "appearance": ""
+      },
+      "city_description": {
+        "appearance": ""
+      },
+      "cityName": {
+        "appearance": ""
+      },
+      "cityOneLine": {
+        "appearance": ""
+      },
+      "cityDescription": {
+        "appearance": ""
+      }
+    }
+  },
+  "topdestination": {
+    "attributes": {
+      "city_name": {
+        "appearance": ""
+      },
+      "state_name": {
+        "appearance": ""
+      },
+      "zone_name": {
+        "appearance": ""
+      }
+    }
+  }
+}
